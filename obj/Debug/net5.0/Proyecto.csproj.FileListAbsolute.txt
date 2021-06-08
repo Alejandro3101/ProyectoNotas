@@ -164,3 +164,8 @@ C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Materias\Delete
 C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Materias\Details.cshtml.g.cs
 C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Materias\Edit.cshtml.g.cs
 C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Materias\Index.cshtml.g.cs
+C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Promedio\Create.cshtml.g.cs
+C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Promedio\Delete.cshtml.g.cs
+C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Promedio\Details.cshtml.g.cs
+C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Promedio\Edit.cshtml.g.cs
+C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Promedio\Index.cshtml.g.cs
