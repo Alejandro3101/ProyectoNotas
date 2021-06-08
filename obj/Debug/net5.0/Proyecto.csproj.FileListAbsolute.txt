@@ -159,3 +159,8 @@ C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Notas\Delete.cs
 C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Notas\Details.cshtml.g.cs
 C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Notas\Edit.cshtml.g.cs
 C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Notas\Index.cshtml.g.cs
+C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Materias\Create.cshtml.g.cs
+C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Materias\Delete.cshtml.g.cs
+C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Materias\Details.cshtml.g.cs
+C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Materias\Edit.cshtml.g.cs
+C:\Users\User\source\repos\Proyecto\obj\Debug\net5.0\Razor\Views\Materias\Index.cshtml.g.cs
